@@ -11,3 +11,4 @@ This is the schematic:
 And this is the pcb:
 <img width="368" height="639" alt="Screenshot 2026-05-07 at 17 23 48" src="https://github.com/user-attachments/assets/0a747a4b-eb95-4b05-bb58-2c50a23b7bc0" />
 
+BOM in the root directory as i cant seem to upload it properly in the readme...
