@@ -40,3 +40,7 @@ And this is the pcb:
 |U3|WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm|1|n/a|W25Q128JVP|
 |Y1|Crystal_SMD_3225-4Pin_3.2x2.5mm|1|12 MHz|X322512MSB4SI|
 
+|Item|Cost|
+|---|---|
+|PCBA|50.70$|
+|shipping|1.50$|
