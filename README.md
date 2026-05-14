@@ -1,6 +1,7 @@
 # catboard
 
 devboard following hackclub guide with 128Mb (new!) memory with rp2040 with a long cat on it, as well as mymelody and stars! 
+I made this with beefy graphics projects in mind, to be able to whitstand larger graphics :) I also really wanted to have a custom devboard that suits my needs and can work for all my project prototypes!
 <img width="160" height="297" alt="Screenshot 2026-05-08 at 14 57 11" src="https://github.com/user-attachments/assets/e544b5d7-9148-4fa6-821d-0814f604ebe5" />
 
 This is the back:
