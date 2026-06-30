@@ -2,6 +2,8 @@
 
 devboard following hackclub guide with 128Mb (new!) memory with rp2040 with a long cat on it, as well as mymelody and stars! 
 I made this with beefy graphics projects in mind, to be able to whitstand larger graphics :) I also really wanted to have a custom devboard that suits my needs and can work for all my project prototypes!
+This is it built and soldered up:
+<img width="800" height="auto" alt="IMG_9745" src="https://github.com/user-attachments/assets/be1ffb36-b7a1-4225-ba9a-ec0f05ac837e" />
 
 <img width="160" height="350" alt="Screenshot 2026-05-08 at 14 57 11" src="https://github.com/user-attachments/assets/e544b5d7-9148-4fa6-821d-0814f604ebe5" />
 <img width="748" height="350" alt="Screenshot 2026-05-14 at 09 40 04" src="https://github.com/user-attachments/assets/32641968-5328-4e6f-b8cc-8e3059b9c175" />
